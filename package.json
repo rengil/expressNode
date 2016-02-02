@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rengil/expressNode/issues"
   },
-  "homepage": "https://github.com/rengil/expressNode#readme"
+  "homepage": "https://github.com/rengil/expressNode#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
 }
