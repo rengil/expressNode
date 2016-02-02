@@ -1,25 +1,19 @@
 {
-  "name": "teste",
+  "name": "npm",
   "version": "0.0.1",
-  "description": "Teste",
+  "description": "teste",
   "main": "app.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rengil/expressNode.git"
   },
-  "keywords": [
-    "wololo"
-  ],
-  "author": "wololo",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rengil/expressNode/issues"
   },
-  "homepage": "https://github.com/rengil/expressNode#readme",
-  "dependencies": {
-    "express": "^4.13.4"
-  }
+  "homepage": "https://github.com/rengil/expressNode#readme"
 }
